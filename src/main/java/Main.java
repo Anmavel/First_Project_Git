@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hallo Zusammen");
         System.out.println("Hallo Zusammen wieder");
         System.out.println("Tom war hier");
+        System.out.println("Tony hier");
     }
 }
